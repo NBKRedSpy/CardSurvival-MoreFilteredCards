@@ -73,10 +73,6 @@ Delete the ```MoreFilteredCards.dll``` from the ```<Steam Directory>\steamapps\c
 # Compatibility
 Safe to add and remove from existing saves.
 
-# Credits
-[Bug icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/bug)
-
-
 # Change Log
 ## 1.0.0 
 * Release

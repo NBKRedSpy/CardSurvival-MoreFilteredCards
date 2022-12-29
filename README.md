@@ -77,4 +77,6 @@ Safe to add and remove from existing saves.
 ## 1.0.0 
 * Release
 
+## 1.0.1 
+* Fixed issue where the filter would fail tag entries with null data.
 

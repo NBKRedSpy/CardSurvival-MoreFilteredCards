@@ -12,7 +12,7 @@ namespace MoreFilteredCards
     [HarmonyPatch(typeof(GraphicsManager), "IncludedInAnyFilterGroup")]
     public static class AdjustFilters_GraphicsManager_IncludedInAnyFilterGroup_Patch
     {
-        public static void Postfix(GraphicsManager __instance, CardSlot _Slot, ref bool __result)
+        public static void Postfix(GraphicsManager __instance, DynamicLayoutSlot _Slot, ref bool __result)
         {
             try
             {

@@ -79,9 +79,16 @@ Delete the ```MoreFilteredCards.dll``` from the ```<Steam Directory>\steamapps\c
 Safe to add and remove from existing saves.
 
 # Change Log
-## 1.0.0 
-* Release
+## 1.2.0
+* Fixes issue where location card line would disappear when a filter is enabled and the user changes environments such as exiting a shed.
+
+## 1.1.0
+* Adds v1.04 support
 
 ## 1.0.1 
 * Fixed issue where the filter would fail tag entries with null data.
+
+## 1.0.0 
+* Release
+
 

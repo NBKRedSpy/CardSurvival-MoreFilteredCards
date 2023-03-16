@@ -3,8 +3,8 @@
   <PropertyGroup>
     <TargetFramework>net46</TargetFramework>
     <AssemblyName>MoreFilteredCards</AssemblyName>
-    <Description>My first plugin</Description>
-    <Version>1.2.0</Version>
+    <Description>MoreFilteredCards</Description>
+    <Version>1.3.0</Version>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <LangVersion>latest</LangVersion>
     <RestoreAdditionalProjectSources>

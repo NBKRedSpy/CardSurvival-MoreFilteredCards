@@ -79,6 +79,8 @@ Delete the ```MoreFilteredCards.dll``` from the ```<Steam Directory>\steamapps\c
 Safe to add and remove from existing saves.
 
 # Change Log
+## 1.3.0
+* Removed filter clear that addressed a beta bug.  Card Survival 1.04h has fixed this and is no longer required.
 ## 1.2.0
 * Fixes issue where location card line would disappear when a filter is enabled and the user changes environments such as exiting a shed.
 
